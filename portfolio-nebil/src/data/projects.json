@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Projet Approximation de π avec python",
+    "imageSrc": "projects/projet_pi.gif",
+    "description": "Ce projet consiste à calculer une approximation de π à l'aide d'une simulation de Monte-Carlo et à générer une animation illustrant visuellement cette simulation.",
+    "skills": ["Python", "Monté Carlo" ,"pylint"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/1A/01_Projet_BPI"
+  },
+  {
+    "title": "Projet Identification de Composantes Connexes dans un Nuage de Points",
+    "imageSrc": "projects/projet_algo.png",
+    "description": "Ce projet consiste à transformer un nuage de points en un graphe non orienté basé sur une distance seuil, puis à identifier et dénombrer les composantes connexes du graphe.",
+    "skills": ["Python", "Théorie de Graphe", "Algo et SDD"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/1A/02_Projet_Algo"
+  },
+  {
+    "title": "Projet Simulation d'une chaine d'oscillateurs non linéaires",
+    "imageSrc": "projects/projet_mnb_2.png",
+    "description": "Ce projet modélise des systèmes physiques interactifs par des équations différentielles du second ordre et simule leur dynamique transitoire pour étudier la convergence vers l'équilibre et les phénomènes oscillatoires à l'aide d'un schéma numérique implicite.",
+    "skills": ["Python", "Analyse numérique", "numpy" , "matplotlib"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/1A/03_Projet_MNB"
+  },
+  {
+    "title": "Projet  Modélisation des Sinistres d'Assurance Maritime",
+    "imageSrc": "projects/projet_PMS.png",
+    "description": "Ce projet modélise les montants des sinistres d'une compagnie d'assurance maritime sur 4 ans en évaluant divers modèles probabilistes, puis propose la loi de Pareto après avoir rejeté les modèles classiques, en utilisant des histogrammes et des méthodes d'estimation des paramètres.",
+    "skills": ["R", "Statistique" ,"Estimation Paramétrique"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/1A/04_Projet_PMS"
+  },
+  {
+    "title": "Projet décodeur JPEG",
+    "imageSrc": "projects/projet_C.png",
+    "description": "L'objectif de ce projet est de réaliser en langage C un décodeur qui convertit les images Format compressé (JPEG) en un format brut (PPM) from scratch",
+    "skills": ["C", "gdb" ,"valgrind" ,"git"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/1A/05_Projet_C"
+  },
+  {
+    "title": "Projet Base de données",
+    "imageSrc": "projects/projet_SGBD.png",
+    "description": "Développement d'une application pour la gestion de réservations d'activités au sein d'un club en montagne.",
+    "skills": ["SQL", "JAVA" ,"JDBC" ,"git"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/2A/01_Projet_SGBD"
+  },
+  {
+    "title": "Projet Simulation de Systèmes Multiagents",
+    "imageSrc": "projects/projet_JAVA.gif",
+    "description": "Ce projet vise à développer une application en Java pour simuler graphiquement divers systèmes multiagents :  le jeu de la vie , simulation du modèle de Boids.",
+    "skills": ["JAVA", "POO" ,"git"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/2A/02_Projet_POO_JAVA"
+  },
+  {
+    "title": "Projet mini-shell",
+    "imageSrc": "projects/project.png",
+    "description": "Ce projet vise à initier à la gestion des processus en développant un interpréteur de commandes, similaire aux shells courants. ",
+    "skills": ["C", "gdb" ,"valgrind" ,"multi-threading"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/2A/03_Projet_mini_shell"
+  },
+  {
+    "title": "Projet Alignement de séquences génétiques",
+    "imageSrc": "projects/projet_AOD.png",
+    "description": "Le but de ce projet est d'écrire un programme cache oblivious qui calcule l'alignement global optimal de deux séquences génétiques (ADN) et d'analyser ses défauts de cache. ",
+    "skills": ["C", "gdb" ,"valgrind" ,"Programmation Dynamique"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/2A/04_Projet_AOD"
+  },
+  {
+    "title": "Projet Génie-Logiciel",
+    "imageSrc": "projects/project.png",
+    "description": "Implémentation d'un compilateur pour un langage dérivé de Java(Deca) .",
+    "skills": ["JAVA" ,"maven" ,"Junit" ,"ANTLR" ,"Jacoco" ,"Shell" ,"git"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/2A/05_Projet_GL"
+  },
+  {
+    "title": "Projet Analyse et Conception d'un jeu de simulation boursière",
+    "imageSrc": "projects/projet_ACOL.png",
+    "description": "Le projet met l'accent sur la modélisation des entités et des relations du monde financier, offrant une interface interactive pour simuler des transactions et suivre les performances des investissements, tout en appliquant les concepts clés de la POO .",
+    "skills": ["JAVA" ,"SQLite","Design Pattern","MVC" ,"JFree" ,"JAVAX"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/2A/06_Projet_ACOL"
+  },
+  {
+    "title": "Projet Analyse de la Sévérité du Cancer de la Prostate",
+    "imageSrc": "projects/project.png",
+    "description": "Ce projet vise à analyser la corrélation entre le volume tumoral de la prostate et plusieurs variables cliniques pour développer un modèle de régression prédictif de la sévérité du cancer.",
+    "skills": ["R" ,"Régression linéaire","Data preprocessing" ,"split-validation"],
+    "source": "https://github.com/mohameml/ensimag-projects/tree/main/2A/07_Projet_Analyse_donn%C3%A9es"
+  }
+]
